@@ -1,5 +1,5 @@
-IG Scraper 
 Instagram profile Scraper by Zolly
+
 Just type the username and the subfolder
 
 Instalation
