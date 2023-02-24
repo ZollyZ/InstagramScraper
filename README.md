@@ -1,6 +1,6 @@
-Instagram profile Scraper by Zolly
+Instagram profile Scraper by ZollyZ
 
-Just type the username and the subfolder
+Just type in the username and the subfolder to save the files :)
 
 Cya  :D
 
